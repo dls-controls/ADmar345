@@ -1,0 +1,6 @@
+WORK = /dls_sw/work/R3.14.12.7/support
+SUPPORT = /dls_sw/prod/R3.14.12.7/support
+EPICS_BASE = /dls_sw/epics/R3.14.12.7/base
+
+ASYN = $(SUPPORT)/asyn/4-34
+ADCORE = $(SUPPORT)/ADCore/3-4dls3
